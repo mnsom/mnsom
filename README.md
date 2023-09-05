@@ -1,4 +1,4 @@
-# Hi, I am Mana ☺
+# Hi, I am Mana 🌼
 
 <img width="988" alt="header-img" src="https://github.com/mnsom/mnsom/assets/130806211/b1b0de8e-a7d6-4059-8f40-f54109f1156d">
 
