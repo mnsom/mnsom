@@ -6,4 +6,5 @@ After working as a customer success spelicalist for 3 years in a global company,
 I recently graduated from Le Wagon intensive Web Development bootcamp and completed a group project. <br>
 I love talking and working with people from diverse backgrounds 🌍
 
-My profile: <a href="https://www.linkedin.com/in/mana-misawa/">LinkedIn</a>
+My profile: <a href="https://www.linkedin.com/in/mana-misawa/">LinkedIn</a> <br>
+The final team project: <a href="https://www.fit-it.homes/">Fit It</a>
