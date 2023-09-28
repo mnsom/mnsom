@@ -7,4 +7,5 @@ I recently graduated from Le Wagon intensive Web Development bootcamp and comple
 I love talking and working with people from diverse backgrounds 🌍
 
 My profile: <a href="https://www.linkedin.com/in/mana-misawa/">LinkedIn</a> <br>
-The final team project: <a href="https://www.fit-it.homes/">Fit It</a>
+The final team project: <a href="https://www.fit-it.homes/">Fit It</a> <br>
+Portfolio site: <a href="https://mana-portfolio.netlify.app/">Portfolio</a>
